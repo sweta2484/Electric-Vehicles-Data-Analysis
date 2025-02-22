@@ -45,7 +45,4 @@ The dataset includes **EV sales records** across Indian states with key attribut
 - **Incorporate Macroeconomic Factors**: Fuel prices, government policies, etc.  
 - **Real-time Data Integration**: Use live data for ongoing EV sales tracking.  
 
-## 💌 Contact  
-- **Email:** ds075156@gmail.com  
-- **LinkedIn:** [Dhruv Singh](https://www.linkedin.com/in/dhruvsingh-data-analyst/)  
-- **GitHub:** [EV Sales Analysis](https://github.com/dhru07/Electric_Vehicle_Sales_Analysis_UM)  
+
